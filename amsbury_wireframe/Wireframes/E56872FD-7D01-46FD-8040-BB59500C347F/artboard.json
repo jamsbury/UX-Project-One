@@ -1,0 +1,89 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B776BC9E-9F9C-46C7-9E3B-98B52FCF8551",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "E56872FD-7D01-46FD-8040-BB59500C347F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28C4664E-A6C8-4A94-BDCB-393F51E7341E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A0DDBFF-2939-450B-ADC0-777176CF20FC",
+    "height": 667,
+    "width": 375,
+    "x": -48,
+    "y": 979
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A0889D15-EA21-4F18-B898-C96919366BCA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BB24E1F1-8AF3-4304-B409-3A64F59437C0"
+    },
+    {
+      "class": "text",
+      "id": "0D177D38-1D92-4AB0-98AB-DFE85165A283"
+    }
+  ],
+  "name": "homescreen",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34C94562-46BF-4184-93B4-C168B2E55428",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E4B5979-D1B1-4CAE-80CE-B2DBEB0FADD9",
+    "guides": [
+    ]
+  }
+}

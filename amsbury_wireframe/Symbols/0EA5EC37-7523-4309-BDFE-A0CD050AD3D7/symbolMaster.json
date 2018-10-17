@@ -1,0 +1,85 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "851B1376-6AF0-4085-9036-750B43003B19",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1551,
+  "do_objectID": "0EA5EC37-7523-4309-BDFE-A0CD050AD3D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13F94753-8FE1-4626-A159-72D28C172D57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E2680EB-8D0D-4D49-8F3E-C6B5DB5BDD1E",
+    "height": 38,
+    "width": 343,
+    "x": 797,
+    "y": -275
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "31062643-495C-4447-B640-706EB09AE8A0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B433195-075E-4832-A576-C814462FF4A4"
+    },
+    {
+      "class": "text",
+      "id": "A08BC5A8-5195-41DB-A465-749B00AC7B3A"
+    }
+  ],
+  "name": "molecule / phone pin georgia",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F1F04C7-E52D-4BCB-912F-BC02BF02221C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49AFF3D2-784E-4683-8A80-E9AAD87DB826",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4CA92072-E0EB-4575-9BBD-4ECA3A2FBB86",
+    "guides": [
+    ]
+  }
+}

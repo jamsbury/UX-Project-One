@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6AF4D400-6468-4637-8011-C666C776A241",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB0F41A3-8958-49FE-A063-9CC277B87B02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9600DB22-2620-4378-8398-70E3E804E78B",
+    "height": 49,
+    "width": 341,
+    "x": 16,
+    "y": 561
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / social media login copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DAD1F5CF-51B2-46F4-B479-D78553A67E29",
+      "overrideName": "72ABBCCC-C662-4359-9A15-D336F7B57490_stringValue",
+      "value": "Log in with LinkedIn"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18494099-11AE-4D20-8DA6-0FB7B2734AF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C3825BF-234D-4EC3-B423-A3565FA9C2D6",
+  "verticalSpacing": 0
+}

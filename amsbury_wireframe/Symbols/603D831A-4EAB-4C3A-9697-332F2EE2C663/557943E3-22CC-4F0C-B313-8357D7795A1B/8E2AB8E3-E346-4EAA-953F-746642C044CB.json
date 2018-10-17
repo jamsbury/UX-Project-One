@@ -1,0 +1,69 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "8E2AB8E3-E346-4EAA-953F-746642C044CB",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1,
+    "width": 1,
+    "x": 21.9147788727589,
+    "y": 32.05613292147456
+  },
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.0053635564689926696, 0.10800000000000409}",
+      "curveMode": 4,
+      "curveTo": "{0.00063644353100755779, 0.054000000000002046}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.00063644353100755779, 0.054000000000002046}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22263644353101597, 0.132000000000005}",
+      "curveMode": 4,
+      "curveTo": "{0.030636443531008695, 0.15600000000000591}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.12663644353101233, 0.15600000000000591}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.25263644353101711, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.25863644353101733, 0.060000000000002274}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.25263644353101711, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

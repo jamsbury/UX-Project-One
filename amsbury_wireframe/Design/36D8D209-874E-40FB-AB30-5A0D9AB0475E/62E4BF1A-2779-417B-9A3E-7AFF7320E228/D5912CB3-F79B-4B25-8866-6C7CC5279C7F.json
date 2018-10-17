@@ -1,0 +1,71 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "D5912CB3-F79B-4B25-8866-6C7CC5279C7F",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B2E5DF1-CA0E-4A2F-BD87-5067AD393B65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E708DCA2-96EC-4F85-8796-8A3EEE300922",
+    "height": 0.4856484797728733,
+    "width": 0.4856484797730332,
+    "x": 101.116373074724,
+    "y": 14.08192787260627
+  },
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.3364381718789673, 0.43200000000000216}",
+      "curveMode": 4,
+      "curveTo": "{-0.14356182812105089, 0.57600000000000762}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.14443817187896002, 0.5280000000000058}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.096438171878958201, 0.048000000000001819}",
+      "curveMode": 4,
+      "curveTo": "{0.24043817187896366, 0.14400000000000546}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.096438171878958201, 0.096000000000003638}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.096438171878958201, 0.096000000000003638}",
+      "curveMode": 4,
+      "curveTo": "{0.096438171878958201, 0.048000000000001819}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.048438171878956382, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

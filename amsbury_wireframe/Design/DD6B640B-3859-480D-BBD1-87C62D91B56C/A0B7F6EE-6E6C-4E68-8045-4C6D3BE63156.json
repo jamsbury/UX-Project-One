@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A0B7F6EE-6E6C-4E68-8045-4C6D3BE63156",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C4FAE5C-E411-4513-907D-338526A7EAA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A38EF126-D306-4DF2-8533-06DB620303E0",
+    "height": 49,
+    "width": 341,
+    "x": 16,
+    "y": 516
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / social media login copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3B760B1-E60E-4B1B-A521-140F2806CA56",
+      "overrideName": "30F8AB14-96F8-47DC-AA22-8D1BA7180E78_stringValue",
+      "value": "Log in with Facebook"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "901A6D9B-899E-498F-9D3C-87BE431A0852",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5183A967-3073-466D-AA3F-33B4AAA65BAF",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 10,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 1,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "1715D021-AFCE-441D-972B-BA029D19A200",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

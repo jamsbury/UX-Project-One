@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A9402667-B6D0-4B5A-99FD-8AFE77B09C14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E747C7C-E4A0-4315-94D2-1D44494507CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2F5B4DA-CE70-4F0D-AA39-16FBEFC563D5",
+    "height": 49,
+    "width": 341,
+    "x": 16,
+    "y": 492
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / social media login copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14A69A20-CF34-43B9-AB3E-EF5D239A039C",
+      "overrideName": "72ABBCCC-C662-4359-9A15-D336F7B57490_stringValue",
+      "value": "Log in with Instagram"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8838F602-5815-4965-B624-5EC36D837FC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C3825BF-234D-4EC3-B423-A3565FA9C2D6",
+  "verticalSpacing": 0
+}

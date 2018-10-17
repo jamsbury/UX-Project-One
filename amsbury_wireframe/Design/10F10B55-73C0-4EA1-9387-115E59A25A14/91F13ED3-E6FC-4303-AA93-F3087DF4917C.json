@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "91F13ED3-E6FC-4303-AA93-F3087DF4917C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1E0C03C-6189-426C-B02F-64B44E82B1D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E80A6C3-0D6C-422C-A812-EE225E2FFA65",
+    "height": 59,
+    "width": 343,
+    "x": 16,
+    "y": 157
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / input field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05CDDABD-E9EF-4DE3-B461-C6F8B6DF7621",
+      "overrideName": "9BB9A023-9A2D-47DB-9AFD-2E71968D952C_stringValue",
+      "value": "Moshe Muller"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2DEA5C5-77F7-4101-8FAB-588F8F84F647",
+      "overrideName": "49FDA746-0204-4E6D-8B14-D33C058B2B83_stringValue",
+      "value": "Full Name"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50F80E3B-BDD5-4934-AA87-A52BA8150CD4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8EE37921-8554-47C5-B5E5-18FB99E9E130",
+  "verticalSpacing": 0
+}

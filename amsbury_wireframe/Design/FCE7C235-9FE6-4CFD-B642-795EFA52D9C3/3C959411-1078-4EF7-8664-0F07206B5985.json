@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3C959411-1078-4EF7-8664-0F07206B5985",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACA64719-1159-40C0-8D43-8A61B51BB2EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F8121B1-C463-4595-93CC-BB617D32F889",
+    "height": 59,
+    "width": 343,
+    "x": 16,
+    "y": 298
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / input field copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6AA1C69-0A53-48DD-A162-F53D0A1BE0C6",
+      "overrideName": "49FDA746-0204-4E6D-8B14-D33C058B2B83_stringValue",
+      "value": "Email PIN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D7F40B9-F104-4DA4-9139-1D3F625C5C8E",
+      "overrideName": "9BB9A023-9A2D-47DB-9AFD-2E71968D952C_stringValue",
+      "value": "#####"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "480BC90D-E0DE-4654-9DE4-30E6D057FAC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8EE37921-8554-47C5-B5E5-18FB99E9E130",
+  "verticalSpacing": 0
+}

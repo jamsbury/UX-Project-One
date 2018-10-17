@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BDB805C5-1C0C-46EB-8023-4F40B759A085",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99181BA4-EDDA-406E-85F2-4F1C201FFE10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "44759A66-5B85-4536-B2F9-ACF2D8FDC0C5",
+    "height": 722,
+    "width": 687,
+    "x": -89,
+    "y": 489
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d3501507c36a18612360c3f07d72fe1a9b16934a.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "duck-color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 588,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "ECEFDAE6-5F94-44C2-8CB0-096E3AEDB6E3",
+      "opacity": 0.7965401785714286
+    },
+    "do_objectID": "C2EC8133-9477-4CA9-872F-3009EFCE6B77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

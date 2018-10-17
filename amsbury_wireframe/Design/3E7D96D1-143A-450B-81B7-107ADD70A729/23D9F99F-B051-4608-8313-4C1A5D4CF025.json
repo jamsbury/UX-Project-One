@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "23D9F99F-B051-4608-8313-4C1A5D4CF025",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7205BDAE-03E1-45FB-97E2-814388F362E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6CFD61B1-D5BB-4DB9-BD40-1530245131E3",
+    "height": 849,
+    "width": 804,
+    "x": -102.8568621647731,
+    "y": 409.2547266450094
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b1bf6fb32257d6de288ff1bbf4128cbceb7ea5c9.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "jade-color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 284,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "A499CA3E-1630-45D4-A13B-CC74B5630EA9",
+      "opacity": 0.8
+    },
+    "do_objectID": "95E94ADF-9C6A-4C8F-AD4B-35AB00B13AFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

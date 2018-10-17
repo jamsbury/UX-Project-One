@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1DD0E2BF-8AF6-4AC4-852F-B1B928C433DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC2E01D6-F31F-407C-BA54-7223955524EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82A584D0-1D48-4AE8-99EB-516D453F02C9",
+    "height": 38,
+    "width": 343,
+    "x": 16,
+    "y": 319
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / phone pin",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BDB56AA8-E14D-40E5-8F3F-3085E3D06766",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49AFF3D2-784E-4683-8A80-E9AAD87DB826",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "543131A6-0904-4A7C-B8F6-6E52C14E7C03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1A18357-46C2-454E-9393-4DC7C0923A2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31C694FC-B619-4AEA-8A83-02DC2F357A87",
+    "height": 103,
+    "width": 225,
+    "x": 10,
+    "y": 2
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism / pop up message",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1566C8A6-78F9-4094-851A-CE72A345D74D",
+      "overrideName": "A33266C7-E598-4981-99BE-4582CBD30061/088F97A5-E4A1-448E-83AF-4E6C98F9567E_stringValue",
+      "value": "Back to Log In"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7C5F14F-60CD-4F5C-B90F-FECACDD9FA5E",
+      "overrideName": "EEC12772-1883-423A-9E08-9FDD52365506_stringValue",
+      "value": "Password reset successful!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6F1506F-CCFD-4204-973F-C6C2BDF48259",
+      "overrideName": "A33266C7-E598-4981-99BE-4582CBD30061/476F0FD4-C70E-4B62-A40D-B27921072B97_symbolID",
+      "value": "55F7BA60-5F9F-4AEF-98C1-14ED363F75EA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3B4CBFF-E6F9-40AC-8767-B762A6109C61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A83E7D4-40D8-4A34-8C57-5443EBEEC355",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "DD6B640B-3859-480D-BBD1-87C62D91B56C",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2A1F1D37-E83E-4DDA-88CE-B566DB502C61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97073868-2730-494D-94A6-E686A668CDA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F5E4FE7-32E1-427E-B1FD-45B4F4027DDF",
+    "height": 49,
+    "width": 341,
+    "x": 16,
+    "y": 585
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / social media login copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E5425CA-7A74-46D6-ACEB-5533DD03B90A",
+      "overrideName": "514A787F-62B8-45DB-A0E9-B2C09B6496C9_stringValue",
+      "value": "Log in with Twitter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3F4C586-BC35-4D3D-8DCA-C02A14D88815",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74F184CB-BD2A-4A0E-B1C7-81EADB05FA88",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 10,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 1,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "1715D021-AFCE-441D-972B-BA029D19A200",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

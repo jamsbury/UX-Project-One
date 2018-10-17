@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "87A6CB65-89F4-4CD4-BDD8-55A8511ACA5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18E3E3CF-3A27-4AA0-BFE5-35157CCD9F73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA54B36E-653B-4225-B3B4-F13F5C5CAD0A",
+    "height": 40,
+    "width": 121,
+    "x": 16,
+    "y": 364
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBBF7A5B-1A51-4F9E-B60B-D061E4B8FE7C",
+      "overrideName": "8E9D7F8A-D669-4EAC-8D23-31BCF5F373FF_stringValue",
+      "value": "submit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "574FE2CB-EB0B-4D33-B974-3B95814A307C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "706D1EFF-5060-4CF8-8F0A-73DF9A997E70",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "145BB917-4290-40F9-A2C4-E0076CDE68EC",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

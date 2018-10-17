@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E3183080-7FBE-42F2-B0D7-DD1F1136DC4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 225,
+    "x": 80,
+    "y": 231
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism / pop up message",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42764E03-B8EF-4CB7-8A1B-75F5344A42AF",
+      "overrideName": "C12E77FE-77EF-4731-AE4F-85A399BE3B86_stringValue",
+      "value": "password reset successful!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "136FF654-3885-4246-992D-C5C0AECD8B93",
+      "overrideName": "4BA40FDC-8027-46AD-B955-CB5C5F829C32/8E9D7F8A-D669-4EAC-8D23-31BCF5F373FF_stringValue",
+      "value": "back to log in"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "922F0AB9-55B7-4216-A4CF-C04B81EC7D7B",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "9CFF5A29-D8D3-4738-98D9-841FFD26B148",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}
